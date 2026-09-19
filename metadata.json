@@ -1,0 +1,6 @@
+{
+  "name": "DARUKAA.EARTH — AI Biodiversity Intelligence System",
+  "description": "AI-powered environmental research platform combining structured ecological knowledge bases, vector RAG retrieval, multi-metric causal reasoning, and scientific evidence citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
